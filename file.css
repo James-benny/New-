@@ -1,0 +1,185 @@
+.section-1{
+    background-color: rgb(31, 31, 73);
+    padding-bottom: 85px;
+}
+
+@media screen and (min-width: 320px){
+    .livestage{
+        width: 200px;
+    }
+}
+
+.music{
+    color: rgb(238, 4, 94);
+    font-size: 85px;
+    font-weight: 600;
+}
+
+.music-1{
+    color: white;
+    font-size: 85px;
+    font-weight: 500;
+    line-height: 10px;
+}
+
+@media screen and (max-width: 320px){
+    .music-1{
+        font-size: 60px;
+    }
+}
+
+.music-2{
+    padding-top: 100px;
+}
+
+.Download{
+    background-color: rgb(238, 4, 94);
+    border-radius: 80px !important;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border: none;
+}
+.Download-2{
+    background-color: rgb(238, 4, 94);
+    border-radius: 80px !important;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border: none;
+}
+
+.Download-1{
+    background-color: rgb(85, 77, 129);
+    border-radius: 80px !important;
+    border: none;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+.access{
+    font-size: 60px;
+}
+
+.section-3{
+    background-color: rgb(31, 31, 73);
+    /* background-image: url(./images/music4.webp);
+    background-size: cover; */
+}
+
+.create{
+    color: rgb(150, 150, 144);
+}
+
+.access-2{
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 70px;
+}
+
+.image-1{
+    border-radius: 30px;
+}
+
+.sub{
+    background-color: rgb(31, 31, 73);
+}
+
+.start{
+    color: rgb(238, 4, 94);
+    font-family: 'Montserrat', sans-serif;  
+    font-family: 'Raleway', sans-serif;
+    font-size: 33px;
+}
+
+.font-1{
+    font-size: 70px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+@media screen and (max-width: 320px){
+    .font-1{
+        font-size: 45px;
+    }
+}
+
+.Download-3{
+    background-color: rgb(238, 4, 94);
+    border-radius: 80px !important;
+    padding-right: 47px;
+    padding-left: 47px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border: none;
+}
+
+.listing{
+    list-style-type: none;
+}
+
+@media screen and (max-width: 320px){
+    .listing{
+        padding: 0px !important;
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+        margin-top: 20px !important;
+    }
+}
+
+.image-3{
+    padding-left: 100px;
+}
+
+@media screen and (max-width: 320px){
+    .image-3{
+        padding-left: 35px !important;
+    }
+}
+
+.spacing{
+    line-height: 50px !important;
+    background-color: rgba(94, 87, 141, 0.297);
+    border-radius: 45px;
+}
+
+@media screen and (min-width: 320px){
+    .spacing-1{
+        padding: 0px !important;
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+        margin-top: 20px !important;
+    }
+}
+
+.round{
+    border-radius: 100%;
+    padding-bottom: 30px;
+}
+
+.section-7{
+    background-color: rgb(31, 31, 73);
+}
+
+.sol{
+    color: rgb(238, 4, 94);
+    font-family: 'Montserrat', sans-serif;  
+    font-family: 'Raleway', sans-serif;
+}
+
+.copy{
+    font-size: 12px;
+}
+
+.ben{
+    text-decoration: none;
+}
+
+.blog{
+    list-style-type: none;
+    padding-left: 0px;
+    line-height: 33px;
+}
